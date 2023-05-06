@@ -1,7 +1,7 @@
-from .dynamic_data_dict import (
-    DynamicDataDict
+from .dynamic_dict import (
+    DynamicDict
 )
 
 __all__ = [
-    "DynamicDataDict"
+    "DynamicDict"
 ]
